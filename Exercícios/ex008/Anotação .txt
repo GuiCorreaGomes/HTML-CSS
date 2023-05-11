@@ -1,0 +1,17 @@
+Crtl + Shift + P   -->   digitar abb  --> selecionar Wrap with Abbreviation  -->
+digitar letra i e apertar enter para envelopar
+
+
+- Para fazer marcação do texto
+
+<mark> texto marcado </mark>
+
+- mudar cor da marcação
+
+<mark style="background-color=:lime> texto marcado </mark>
+
+- mudar todas as marcações
+
+<mark> texto marcado </mark>
+
+dentro de <head></head> criar <style> mark{background-color: limegreen; } </style>

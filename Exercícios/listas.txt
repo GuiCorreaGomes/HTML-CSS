@@ -1,0 +1,31 @@
+- CRIANDO UMA LISTA ORDENADDA
+<ol>
+    <li>Acordar </li>
+    <li>Ligar para o João </li>
+    <li>Tomar café </li>
+    <li>Escovar os dentes </li>
+</ol>
+
+OBS: </li> é opcional
+
+
+- CRIANDO UMA LISTA ORDENADDA
+<ol type="i" start="4">    ----> type para escolher tipo de numeração e start para mostrar de qual numero começar
+    <li>Acordar </li>
+    <li>Ligar para o João </li>
+    <li>Tomar café </li>
+    <li>Escovar os dentes </li>
+</ol>
+
+OBS: </li> é opcional
+
+
+
+CRIANDO UMA LISTA NÃO ORDENADA
+
+<ul type="square">    type para mudar o tipo da lista
+    <li>Acordar </li>
+    <li>Ligar para o João </li>
+    <li>Tomar café </li>
+    <li>Escovar os dentes </li>
+</ul>

@@ -1,0 +1,50 @@
+       
+sites:
+
+googlefonts
+dafonts
+_________________
+sites identificar fonte por foto
+
+whatfontsIs
+fontsquirrel
+myfonts
+
+body {
+font-family: sans-serif;
+
+Medidas Absolutas
+cm, mm, in, px, pt, pc
+
+Medidas Relativas
+
+em, ex, rem, vw, vh, % 
+16px geralmente = 1em
+
+
+
+font-size: 1em;
+font-weight: lighter;
+font-style: italic;
+text-decoration: underline;
+/* lighter normal bold bolder */
+}
+
+
+
+h1 {
+/*
+shorthand font
+font-style -> font-weight -> font-size -> font-family
+font-family: 'Work Sans', sans-serif;
+font-weight: bolder;
+font-size: 3em;
+font-style: italic;
+*/
+font: italic bolder 3em 'Work Sans', sans-serif;
+}
+
+
+h2 {
+font: bold 2em 'Work-Sans'
+}

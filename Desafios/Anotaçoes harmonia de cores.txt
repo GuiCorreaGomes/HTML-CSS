@@ -1,0 +1,17 @@
+           CÍRCULO CROMÁTICO
+
+Cores Primárias: Amarelo, Vermelho e Azul.
+
+Cores Secundárias: Laranja, Violeta e Verde.
+
+Cores Terciárias: Amarelo-esverdeado, Amarelo-alaranjado, Vermelho-alaranjado,
+Vermelho-arroxeado, Azul-arroxeado, Azul-esverdeado.
+
+
+         FERRAMENTAS IMPORTANTES
+
+* Adobe Color
+
+* Paletton
+
+* Coolors

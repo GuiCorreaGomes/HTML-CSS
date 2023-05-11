@@ -1,0 +1,13 @@
+class e id
+
+servem para mudar os elementos separados de qualquer titulo, frase e etc
+
+class não se repete, id pode ser feito em diversos locais
+
+id representado por #
+
+class representado por .
+
+
+
+

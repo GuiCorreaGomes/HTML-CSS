@@ -1,0 +1,8 @@
+<code> comando para colocar espaçamentos iguais por caractere</code>
+
+<pre> comando para mostrar na pagina exatamente como foi digitado o codigo</pre>
+
+
+<q> para fazer citações simples </q>
+
+<blockquote> para citações completas em bloco </blockquote>
